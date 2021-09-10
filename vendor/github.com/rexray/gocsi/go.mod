@@ -24,7 +24,7 @@ require (
 	github.com/onsi/ginkgo v1.4.0
 	github.com/onsi/gomega v1.3.0
 	github.com/prometheus/client_golang v0.9.4 // indirect
-	github.com/sirupsen/logrus v1.2.0
+	github.com/Sirupsen/logrus v1.2.0
 	github.com/soheilhy/cmux v0.1.4 // indirect
 	github.com/spf13/cobra v0.0.1
 	github.com/spf13/pflag v1.0.0

@@ -19,7 +19,7 @@ import (
 	"github.com/docker/swarmkit/manager/encryption"
 	"github.com/docker/swarmkit/node"
 	"github.com/docker/swarmkit/testutils"
-	"github.com/sirupsen/logrus"
+	"github.com/Sirupsen/logrus"
 )
 
 const opsTimeout = 64 * time.Second

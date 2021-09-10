@@ -4,7 +4,7 @@ import (
 	"context"
 	"net"
 
-	log "github.com/sirupsen/logrus"
+	log "github.com/Sirupsen/logrus"
 
 	"github.com/rexray/gocsi"
 	"github.com/rexray/gocsi/mock/service"
