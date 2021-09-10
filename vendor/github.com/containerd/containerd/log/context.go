@@ -19,7 +19,7 @@ package log
 import (
 	"context"
 
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 )
 
 var (

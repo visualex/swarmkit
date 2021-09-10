@@ -8,7 +8,7 @@ import (
 	"github.com/docker/swarmkit/api"
 	"github.com/docker/swarmkit/log"
 	"github.com/docker/swarmkit/watch"
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 	bolt "go.etcd.io/bbolt"
 )
 

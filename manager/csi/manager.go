@@ -7,7 +7,7 @@ import (
 	"sync"
 
 	"github.com/docker/go-events"
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 
 	"github.com/docker/docker/pkg/plugingetter"
 

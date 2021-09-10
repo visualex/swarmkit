@@ -10,7 +10,7 @@ import (
 	nullIpam "github.com/docker/docker/libnetwork/ipams/null"
 	remoteIpam "github.com/docker/docker/libnetwork/ipams/remote"
 	"github.com/docker/docker/libnetwork/ipamutils"
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 )
 
 func initIPAMDrivers(r *drvregistry.DrvRegistry, netConfig *NetworkConfig) error {

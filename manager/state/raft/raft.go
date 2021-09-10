@@ -31,7 +31,7 @@ import (
 	"github.com/docker/swarmkit/watch"
 	"github.com/gogo/protobuf/proto"
 	"github.com/pkg/errors"
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 	"golang.org/x/time/rate"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/codes"

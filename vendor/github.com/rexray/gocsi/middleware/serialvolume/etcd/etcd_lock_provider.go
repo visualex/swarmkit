@@ -10,7 +10,7 @@ import (
 
 	etcd "github.com/coreos/etcd/clientv3"
 	etcdsync "github.com/coreos/etcd/clientv3/concurrency"
-	log "github.com/Sirupsen/logrus"
+	log "github.com/sirupsen/logrus"
 	"github.com/akutz/gosync"
 
 	csictx "github.com/rexray/gocsi/context"

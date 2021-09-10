@@ -13,4 +13,4 @@ components and libraries.
 * **version**: Version information and metrics
 
 ## Deprecated
-* **log**: A logging wrapper around [logrus](https://github.com/Sirupsen/logrus)
+* **log**: A logging wrapper around [logrus](https://github.com/sirupsen/logrus)

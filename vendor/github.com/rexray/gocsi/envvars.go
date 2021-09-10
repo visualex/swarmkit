@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	log "github.com/Sirupsen/logrus"
+	log "github.com/sirupsen/logrus"
 
 	csictx "github.com/rexray/gocsi/context"
 	"github.com/rexray/gocsi/utils"

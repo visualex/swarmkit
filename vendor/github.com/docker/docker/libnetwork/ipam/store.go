@@ -5,7 +5,7 @@ import (
 
 	"github.com/docker/docker/libnetwork/datastore"
 	"github.com/docker/docker/libnetwork/types"
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 )
 
 // Key provides the Key to be used in KV Store

@@ -23,7 +23,7 @@ import (
 	"text/template"
 
 	"github.com/container-storage-interface/spec/lib/go/csi"
-	log "github.com/Sirupsen/logrus"
+	log "github.com/sirupsen/logrus"
 	"google.golang.org/grpc"
 
 	csictx "github.com/rexray/gocsi/context"

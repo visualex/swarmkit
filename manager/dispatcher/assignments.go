@@ -9,7 +9,7 @@ import (
 	"github.com/docker/swarmkit/identity"
 	"github.com/docker/swarmkit/manager/drivers"
 	"github.com/docker/swarmkit/manager/state/store"
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 )
 
 type typeAndID struct {

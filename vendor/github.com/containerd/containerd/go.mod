@@ -48,7 +48,7 @@ require (
 	github.com/prometheus/client_golang v1.7.1
 	github.com/prometheus/procfs v0.6.0 // indirect; temporarily force v0.6.0, which was previously defined in imgcrypt as explicit version
 	github.com/satori/go.uuid v1.2.0 // indirect
-	github.com/Sirupsen/logrus v1.7.0
+	github.com/sirupsen/logrus v1.7.0
 	github.com/stretchr/testify v1.6.1
 	github.com/tchap/go-patricia v2.2.6+incompatible
 	github.com/urfave/cli v1.22.2
